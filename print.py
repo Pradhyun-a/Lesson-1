@@ -1,0 +1,5 @@
+print("My name is Pradhyun /n")
+print("I am 14 years old /n")
+print("I go to Northholm Grammar School /n")
+print("i like to play soccer and badminton /n")
+print("When I grow I would like to be a dentist /n")
